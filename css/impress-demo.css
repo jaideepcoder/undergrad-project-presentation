@@ -420,6 +420,7 @@ a:focus {
 
 #application {
     width: 1500px;
+    font-size: 24px;
 }
 
 #application h1 {
@@ -492,6 +493,30 @@ li {
 
     Quite a simple idea, but lot's of styles and prefixes.
 */
+
+#current-algorithm {
+    width: 1500px;
+}
+
+#future-algorithm {
+    width: 1500px;
+}
+
+#motor-specs {
+    font-size: 36px;
+    width: 800px;
+}
+
+#conclusion {
+    font-size: 24px;
+    width: 1000px;
+}
+
+#conclusion-1 {
+    font-size: 24px;
+    width: 1000px;
+}
+
 #its-in-3d span,
 #its-in-3d b {
     display: inline-block;
